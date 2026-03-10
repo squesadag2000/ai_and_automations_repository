@@ -52,8 +52,3 @@ Projects are organized by category:
 > Projects will be added as they're built. Each one includes a README with setup instructions.
 
 ---
----
-
-## 📄 License
-
-[MIT](LICENSE)
